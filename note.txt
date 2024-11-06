@@ -1,0 +1,7 @@
+Reimplement functionality?
+
+Or take mass amounts of screenshots?
+Add new code into SwiftDialog to capture the window contents?
+
+https://giantsur.netlify.app/
+https://macos-tailwind.netlify.app/?path=/docs/macos-tailwind--docs
