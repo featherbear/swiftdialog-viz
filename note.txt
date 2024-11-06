@@ -5,3 +5,4 @@ Add new code into SwiftDialog to capture the window contents?
 
 https://giantsur.netlify.app/
 https://macos-tailwind.netlify.app/?path=/docs/macos-tailwind--docs
+https://www.alessioatzeni.com/mac-osx-lion-css3/#all
